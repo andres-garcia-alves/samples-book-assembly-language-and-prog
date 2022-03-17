@@ -14,7 +14,7 @@ Code samples:
 - P15ASCHX.asm: display ASCII characters and their hexadecimal value.
 - P18RDSCT.asm: read disk sector (DOS interrupts).
 - P19BIORD.asm: read disk sector (BIOS interrupts).
-- P21MOUSE.asm: mouse handling, reporting mouse position.
+- P21MOUSE.asm: mouse handling, tracking mouse position.
 - P21SOUND.asm: plays sounds using the speaker.
 
 All this samples targets DOS (16-bit) and where compiled+tested with the [MASM32 SDK](https://www.masm32.com/) on a virtual machine running WIN XP.
