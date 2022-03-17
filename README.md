@@ -1,5 +1,5 @@
-# Book Code Samples:  
-# Assembly Language and Programming  
+# Book: Assembly Language and Programming  
+# (Code Samples)
 
 Selected code samples from book: "Assembly Language and Programming" by Peter Abel.
 
@@ -38,4 +38,4 @@ All this samples targets DOS (16-bit) and where compiled+tested with the [MASM32
 
 &nbsp;
 
-Please send me your feedback about this app: andres.garcia.alves@gmail.com
+Please send me your feedback about this code samples: andres.garcia.alves@gmail.com
