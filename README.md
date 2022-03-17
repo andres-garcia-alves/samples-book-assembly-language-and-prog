@@ -1,4 +1,5 @@
-# Book: Assembly Language and Programming (Code Samples)
+# Book Code Samples:  
+Assembly Language and Programming  
 
 Selected code samples from book: "Assembly Language and Programming" by Peter Abel.
 
@@ -17,7 +18,7 @@ Code samples:
 - P21MOUSE.asm: mouse handling, reporting mouse position
 - P21SOUND.asm: plays sounds using the speaker
 
-All this samples targets DOS (16-bit) and where compiled+tested with the ![MASM32 SDK](https://www.masm32.com/) on a virtual machine running WIN XP.
+All this samples targets DOS (16-bit) and where compiled+tested with the [MASM32 SDK](https://www.masm32.com/) on a virtual machine running WIN XP.
 
 &nbsp;
 
