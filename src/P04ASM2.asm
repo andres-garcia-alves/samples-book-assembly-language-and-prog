@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-TITLE   P04ASM2 (EXE) MOV & AND operations
+TITLE   P04ASM2 (EXE) MOV & AND instructions
 ;---------------------------------------------------
         .MODEL SMALL
         .STACK 64

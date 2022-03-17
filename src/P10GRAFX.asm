@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-TITLE   P10GRAFX (COM) Graphic Display
+TITLE   P10GRAFX (COM) Fill the screen with horizontal colored lines
 ;---------------------------------------------------
         .MODEL SMALL
 

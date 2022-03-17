@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-TITLE       P18RDSCT (EXE) Read disk sector (DOS Interrupt)
+TITLE       P18RDSCT (EXE) Read disk sector (DOS Interrupts)
 ;---------------------------------------------------
             .MODEL  SMALL
             .STACK 64

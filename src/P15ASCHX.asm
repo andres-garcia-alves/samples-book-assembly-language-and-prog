@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-TITLE       P15ASCHX (COM) Display ASCII characters & Hex values
+TITLE       P15ASCHX (COM) Display ASCII characters and their hexadecimal value
 ;---------------------------------------------------
             .MODEL  SMALL
 

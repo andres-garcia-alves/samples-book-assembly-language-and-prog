@@ -1,5 +1,5 @@
 ;---------------------------------------------------
-TITLE       P19BIORDT (EXE) Read disk sector (BIOS Interrupt)
+TITLE       P19BIORDT (EXE) Read disk sector (BIOS interrupts)
 ;---------------------------------------------------
             .MODEL  SMALL
             .STACK 64
