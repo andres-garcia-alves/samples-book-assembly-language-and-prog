@@ -1,5 +1,4 @@
-## Book: Assembly Language and Programming  
-## (Code Samples)
+## Book Code Samples: Assembly Language and Programming
 
 &nbsp;
 
