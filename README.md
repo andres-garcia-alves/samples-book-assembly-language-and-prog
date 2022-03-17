@@ -1,7 +1,5 @@
 ## Book Code Samples: Assembly Language and Programming
 
-&nbsp;
-
 Selected code samples from book: "Assembly Language and Programming" by Peter Abel.
 
 This old book did not provided an online version with the source code for the examples.  
