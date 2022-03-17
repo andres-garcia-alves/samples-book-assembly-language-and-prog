@@ -1,5 +1,5 @@
 # Book Code Samples:  
-Assembly Language and Programming  
+# Assembly Language and Programming  
 
 Selected code samples from book: "Assembly Language and Programming" by Peter Abel.
 
@@ -26,15 +26,15 @@ All this samples targets DOS (16-bit) and where compiled+tested with the [MASM32
 
 | Sample 01                     | Sample 02                     |
 |-------------------------------|-------------------------------|
-| ![](resources/P09CTRNM.jpg)   | ![](Resources/P10BIOAS.jpg)   |
+| ![](resources/P09CTRNM.png)   | ![](resources/P10BIOAS.png)   |
 
 | Sample 03                     |  Sample 04                    |
 |-------------------------------|-------------------------------|
-| ![](resources/P10GRAFX.jpg)   | ![](Resources/P10NMSCR.jpg)   |
+| ![](resources/P10GRAFX.png)   | ![](resources/P10NMSCR.png)   |
 
 | Sample 05                     |  Sample 06                    |
 |-------------------------------|-------------------------------|
-| ![](resources/P15ASCHX.jpg)   | ![](Resources/P21MOUSE.jpg)   |
+| ![](resources/P15ASCHX.png)   | ![](resources/P21MOUSE.png)   |
 
 &nbsp;
 
