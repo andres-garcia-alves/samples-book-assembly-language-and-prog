@@ -1,0 +1,15 @@
+/Fo: object file name
+/Fe: executable file name
+/Bl: alternative linker
+
+cd z:\tools
+ml.exe /Fo z:\src\P04ASM2.obj /Fe z:\bin\P04ASM2.exe /Bl link16.exe z:\src\P04ASM2.asm
+ml.exe /Fo z:\src\P09CTRNM.obj /Fe z:\bin\P09CTRNM.exe /Bl link16.exe z:\src\P09CTRNM.asm
+ml.exe /Fo z:\src\P10BIOAS.obj /Fe z:\bin\P10BIOAS.exe /Bl link16.exe z:\src\P10BIOAS.asm
+ml.exe /Fo z:\src\P10GRAFX.obj /Fe z:\bin\P10GRAFX.exe /Bl link16.exe z:\src\P10GRAFX.asm
+ml.exe /Fo z:\src\P10NMSCR.obj /Fe z:\bin\P10NMSCR.exe /Bl link16.exe z:\src\P10NMSCR.asm
+ml.exe /Fo z:\src\P15ASCHX.obj /Fe z:\bin\P15ASCHX.exe /Bl link16.exe z:\src\P15ASCHX.asm
+ml.exe /Fo z:\src\P18RDSCT.obj /Fe z:\bin\P18RDSCT.exe /Bl link16.exe z:\src\P18RDSCT.asm
+ml.exe /Fo z:\src\P19BIORD.obj /Fe z:\bin\P19BIORD.exe /Bl link16.exe z:\src\P19BIORD.asm
+ml.exe /Fo z:\src\P21MOUSE.obj /Fe z:\bin\P21MOUSE.exe /Bl link16.exe z:\src\P21MOUSE.asm
+ml.exe /Fo z:\src\P21SOUND.obj /Fe z:\bin\P21SOUND.exe /Bl link16.exe z:\src\P21SOUND.asm
