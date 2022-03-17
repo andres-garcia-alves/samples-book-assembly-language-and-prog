@@ -1,6 +1,6 @@
-/Fo: object file name
-/Fe: executable file name
-/Bl: alternative linker
+rem /Fo: object file name
+rem /Fe: executable file name
+rem /Bl: alternative linker
 
 cd z:\tools
 ml.exe /Fo z:\src\P04ASM2.obj /Fe z:\bin\P04ASM2.exe /Bl link16.exe z:\src\P04ASM2.asm
