@@ -37,4 +37,10 @@ All this samples targets DOS (16-bit) and where compiled+tested with the [MASM32
 
 &nbsp;
 
+### Version History
+
+v1.0 (2022.03.17) - Initial release.  
+
+&nbsp;
+
 Please send me your feedback about this project: andres.garcia.alves@gmail.com
